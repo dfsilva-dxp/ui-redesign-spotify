@@ -1,2 +1,2 @@
-# vite-boilerplate
-Boilerplate Vite
+# UI Redesign Spotify
+UI Redesign Spotify
